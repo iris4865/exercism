@@ -10,6 +10,7 @@ members = [
     "crates/hello_world",
     "crates/lucians_luscious_lasagna",
     "crates/assembly_line",
+    "crates/semi-structured-logs",
 ]
 
 [dependencies]
