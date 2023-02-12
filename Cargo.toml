@@ -11,6 +11,7 @@ members = [
     "crates/lucians_luscious_lasagna",
     "crates/assembly_line",
     "crates/semi-structured-logs",
+    "crates/resistor-color",
 ]
 
 [dependencies]
