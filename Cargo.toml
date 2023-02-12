@@ -12,6 +12,7 @@ members = [
     "crates/assembly_line",
     "crates/semi-structured-logs",
     "crates/resistor-color",
+    "crates/health-statistics",
 ]
 
 [dependencies]
