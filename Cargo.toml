@@ -13,6 +13,7 @@ members = [
     "crates/semi-structured-logs",
     "crates/resistor-color",
     "crates/health-statistics",
+    "crates/short-fibonacci",
 ]
 
 [dependencies]
