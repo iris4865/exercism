@@ -16,6 +16,7 @@ members = [
     "crates/short-fibonacci",
     "crates/reverse-string",
     "crates/gigasecond",
+    "crates/low-power-embedded-game",
 ]
 
 [dependencies]
