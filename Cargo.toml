@@ -15,6 +15,7 @@ members = [
     "crates/health-statistics",
     "crates/short-fibonacci",
     "crates/reverse-string",
+    "crates/gigasecond",
 ]
 
 [dependencies]
