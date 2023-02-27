@@ -18,6 +18,7 @@ members = [
     "crates/gigasecond",
     "crates/low-power-embedded-game",
     "crates/role-playing-game",
+    "crates/clock",
 ]
 
 [dependencies]
