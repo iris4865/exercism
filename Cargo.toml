@@ -17,6 +17,7 @@ members = [
     "crates/reverse-string",
     "crates/gigasecond",
     "crates/low-power-embedded-game",
+    "crates/role-playing-game",
 ]
 
 [dependencies]
