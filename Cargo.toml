@@ -21,6 +21,7 @@ members = [
     "crates/clock",
     "crates/anagram",
     "crates/magazine-cutout",
+    "crates/rpn-calculator",
 ]
 
 [dependencies]
