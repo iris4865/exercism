@@ -20,6 +20,7 @@ members = [
     "crates/role-playing-game",
     "crates/clock",
     "crates/anagram",
+    "crates/magazine-cutout",
 ]
 
 [dependencies]
